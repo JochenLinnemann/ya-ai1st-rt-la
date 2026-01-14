@@ -11,3 +11,8 @@ The goal is clarity, not perfection.
 **Decision:** What was chosen?  
 **Consequences:** Tradeoffs and impacts  
 **Date:** YYYY-MM-DD
+
+## Example
+
+For a complete, realistic example of decision entries,
+see: examples/minimal-service/DECISIONS.md
