@@ -16,3 +16,12 @@
 ✅ Good:
 "Extract the parsing logic into a pure function and add unit tests.
 Do not change behavior."
+
+## Cost Guardrails
+
+AI suggestions should be rejected if they:
+- Introduce always-on infrastructure without justification
+- Increase steady-state cost by more than ~5–10% for marginal gains
+- Add paid third-party services for convenience only
+
+Cost tradeoffs should be documented explicitly.
