@@ -1,7 +1,10 @@
 # PR Review Checklist
 
-- [ ] Change is easy to understand
-- [ ] Scope is appropriate
-- [ ] Tests added or updated
-- [ ] Risks documented
-- [ ] Operational impact considered
+- [ ] Change scope is small and focused
+- [ ] Code is readable without additional context
+- [ ] Tests cover new behavior or risks
+- [ ] Tradeoffs are documented
+- [ ] Operational impact is considered
+- [ ] Security implications are reviewed
+- [ ] AI-generated code was reviewed line-by-line
+- [ ] Reviewer understands the change well enough to maintain it
