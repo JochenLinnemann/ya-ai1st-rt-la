@@ -44,3 +44,10 @@ Each item should be answerable with a clear yes/no.
 - [ ] New attack surfaces are documented
 - [ ] Rollback does not weaken security controls
 - [ ] Monitoring or alerts updated if risk profile changes
+
+## Exceptions
+
+If any checklist item is intentionally not met:
+- Document the reason
+- Document the risk
+- Document the mitigation (if any)

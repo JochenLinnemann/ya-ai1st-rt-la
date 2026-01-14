@@ -34,3 +34,7 @@ AI should not:
 - Explain why the change exists
 - Describe risks
 - Note testing performed
+
+---
+
+Checklist exceptions are allowed but must be explicit and documented.

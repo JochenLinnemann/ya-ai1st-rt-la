@@ -8,3 +8,10 @@
 - [ ] Startup and shutdown behavior is deterministic
 - [ ] State is recoverable after restart
 - [ ] Monitoring is updated if behavior changes
+
+## Exceptions
+
+If any checklist item is intentionally not met:
+- Document the reason
+- Document the risk
+- Document the mitigation (if any)

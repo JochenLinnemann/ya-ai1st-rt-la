@@ -8,3 +8,10 @@
 - [ ] No polling or busy-wait loops
 - [ ] Timeouts are set on external calls
 - [ ] Performance tradeoffs are documented if knowingly accepted
+
+## Exceptions
+
+If any checklist item is intentionally not met:
+- Document the reason
+- Document the risk
+- Document the mitigation (if any)
