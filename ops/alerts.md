@@ -13,3 +13,10 @@
 
 ## Escalation
 Describe on-call rotation and escalation paths.
+
+## Example Alert
+
+Name: High Error Rate  
+Trigger: >5% errors over 5 minutes  
+Impact: Users likely affected  
+Action: Check recent deploys, roll back if needed

@@ -1,5 +1,7 @@
 # Project Name
 
+This is a repository thinking framework, not a runtime scaffold.
+
 ## Overview
 Briefly describe:
 - What problem this project solves

@@ -6,10 +6,13 @@ on:
     branches: [ main ]
 
 jobs:
-  validate:
+  sanity:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Placeholder CI
+
+      - name: Repo hygiene
         run: |
-          echo "Add language-specific lint/test steps here."
+          test -f README.md
+          test -f ARCHITECTURE.md
+          test -f DECISIONS.md
