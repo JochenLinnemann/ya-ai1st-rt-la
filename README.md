@@ -2,7 +2,7 @@
 
 This repository is a **thinking framework**, not a runtime scaffold.
 
-It exists to help teams use generative AI **deliberately and responsibly** in software development — with clear intent, explicit tradeoffs, and minimal accidental complexity.
+It exists to help teams use generative AI **deliberately, responsibly, and with clear intent** — minimizing accidental complexity while making tradeoffs explicit.
 
 Empty files in this repository are intentional.  
 They create space for decisions *as they are made*, not pressure to document everything up front.
@@ -119,3 +119,10 @@ Keep this practical and minimal.
 - Architecture overview: `ARCHITECTURE.md`
 - Architectural decisions: `DECISIONS.md`
 - AI usage guidance: `ai/README.md`
+
+---
+
+## Quick Reference
+- 📋 [Checklists](ai/checklists/) — Review and quality gates
+- 💬 [Prompt Templates](ai/prompts/) — Structure AI interactions
+- ⚙️ [Operations Guides](ops/) — Alerts, monitoring, and runbooks
