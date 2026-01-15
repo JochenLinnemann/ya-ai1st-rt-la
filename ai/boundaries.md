@@ -18,4 +18,6 @@ AI should NOT be used for:
 - Making final architectural decisions
 - Approving its own output
 
+AI must not propose changes that materially increase steady-state cost (e.g. always-on infrastructure, new paid services) without explicit human request and approval.
+
 Humans are accountable for all merged changes.
