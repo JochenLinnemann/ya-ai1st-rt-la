@@ -25,3 +25,27 @@ AI suggestions should be rejected if they:
 - Add paid third-party services for convenience only
 
 Cost tradeoffs should be documented explicitly.
+
+## No "Down the Rabbit Hole"
+
+Before making changes, restate the goal in one sentence.
+If the proposed change does not directly advance that goal, stop and ask.
+
+You have at most three iterations to propose the smallest viable change.
+Do not explore alternatives unless asked.
+
+Do not combine:
+- Refactoring + new behavior
+- Performance changes + readability changes
+- Dependency changes + logic changes
+
+After proposing a solution, include:
+- Summary (3 bullets)
+- Why this is sufficient
+- What is intentionally left out
+- A recommendation: STOP or CONTINUE
+
+If a change introduces a new tradeoff or long-term implication,
+stop and propose a DECISIONS.md entry instead of continuing.
+
+When uncertain whether additional work adds value, stop and ask.
