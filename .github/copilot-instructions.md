@@ -32,3 +32,8 @@ Before proposing a PR-ready change, use relevant checklists:
 - ai/checklists/pr_review.md
 
 If any checklist item is intentionally not met, document reason, risk, mitigation.
+
+## Notes
+RETRO.md is a shared space for reflective notes.
+Only add entries to RETRO.md when explicitly invited by a human.
+Do not treat notes as tasks, decisions, or recommendations.

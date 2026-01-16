@@ -49,3 +49,9 @@ If a change introduces a new tradeoff or long-term implication,
 stop and propose a DECISIONS.md entry instead of continuing.
 
 When uncertain whether additional work adds value, stop and ask.
+
+## Notes
+
+RETRO.md is a shared space for reflective notes.
+Only add entries to RETRO.md when explicitly invited by a human.
+Do not treat notes as tasks, decisions, or recommendations.

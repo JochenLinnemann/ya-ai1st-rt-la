@@ -8,6 +8,18 @@ Notes here are discussed periodically and may or may not lead to action.
 
 ---
 
+## Usage
+
+This file captures observations about how humans and AI collaborate in this repository.
+
+- Humans may add notes freely.
+- AI should only add notes when explicitly asked to do so.
+- Notes should be observational, tentative, and non-prescriptive.
+
+Notes here are not decisions, tasks, or obligations.
+
+---
+
 ## Examples
 
 **YYYY-MM-DD**

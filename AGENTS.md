@@ -35,3 +35,8 @@ Exceptions are allowed only if reason, risk, and mitigation are documented.
 - Install deps: `<command>`
 - Run tests: `<command>`
 - Lint/format: `<command>`
+
+## Notes
+RETRO.md is a shared space for reflective notes.
+Only add entries to RETRO.md when explicitly invited by a human.
+Do not treat notes as tasks, decisions, or recommendations.
