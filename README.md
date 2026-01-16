@@ -126,3 +126,4 @@ Keep this practical and minimal.
 - 📋 [Checklists](ai/checklists/) — Review and quality gates
 - 💬 [Prompt Templates](ai/prompts/) — Structure AI interactions
 - ⚙️ [Operations Guides](ops/) — Alerts, monitoring, and runbooks
+- 🪞 [RETRO.md](RETRO.md) — Shared retrospective notes from human–AI collaboration
