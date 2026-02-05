@@ -10,6 +10,7 @@ Prefer minimal, incremental changes. Keep solutions simple and explicit.
 - ai/README.md
 - ai/rules.md
 - ai/context.md
+- ai/workflow.md
 - ai/checklists/
 
 ## Working style
@@ -32,6 +33,16 @@ Before proposing a PR-ready change, use relevant checklists:
 - ai/checklists/pr_review.md
 
 If any checklist item is intentionally not met, document reason, risk, mitigation.
+
+## Operational workflow (important)
+All AI agents MUST follow the collaboration and PR workflow defined in:
+- **ai/workflow.md**
+
+This includes:
+- PR size guardrails
+- single-branch iteration rules
+- Fix Pack handling for review feedback
+- Definition of Done for agent PRs
 
 ## Notes
 RETRO.md is a shared space for reflective notes.

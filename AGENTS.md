@@ -10,6 +10,8 @@ Before making changes, read:
 - ai/README.md
 - ai/rules.md
 - ai/context.md
+- ai/workflow.md
+- ai/checklists/
 
 ## How to work in this repo
 - Keep changes small, safe, and easy to review.
@@ -30,6 +32,16 @@ Use these before finalizing a change:
 - ai/checklists/pr_review.md
 
 Exceptions are allowed only if reason, risk, and mitigation are documented.
+
+## Operational workflow (important)
+All AI agents MUST follow the collaboration and PR workflow defined in:
+- **ai/workflow.md**
+
+This includes:
+- PR size guardrails
+- single-branch iteration rules
+- Fix Pack handling for review feedback
+- Definition of Done for agent PRs
 
 ## Common commands (fill in per project)
 - Install deps: `<command>`
